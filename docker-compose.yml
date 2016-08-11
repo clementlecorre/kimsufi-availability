@@ -1,0 +1,10 @@
+version: '2'
+services :
+  kimsufi :
+    build : .
+    environment:
+      SERVER_WARN: 143sys1
+      ZONE: rbx
+      TOKEN: 
+      USERID: 
+    hostname: kimsufi

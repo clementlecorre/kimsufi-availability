@@ -17,7 +17,7 @@ Set env value in docker-compose.yml with server.json :
 
 * TOKEN : telegram token, contact @botfather
 
-* TOKEN : telegram id, contact @myidbot
+* USERID : telegram id, contact @myidbot
 
 ```
 environment:

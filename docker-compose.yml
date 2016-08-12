@@ -5,6 +5,8 @@ services :
     environment:
       SERVER_WARN: 143sys1
       ZONE: rbx
-      TOKEN: 
+      TOKEN:
       USERID: 
+      TIMESLEEP: 1
+      TIMERENOTIFY: 60
     hostname: kimsufi
